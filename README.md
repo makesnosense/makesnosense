@@ -1,3 +1,3 @@
-TypeScript • React • Astro • Node.js
+TypeScript • React • Astro • Node.js • Express
 
 Python • C/C++
